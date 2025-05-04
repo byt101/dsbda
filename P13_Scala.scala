@@ -5,10 +5,10 @@
 // check :- scala -version 
     // If not then :- sudo apt-get install scala
 // write code :- vi CheckNum.scala
-// to see code :- cat CheckNum.scala
 // to save and exit :- :wq
+// to see code :- cat CheckNum.scala
 // compile :- scalac CheckNum.scala
-// run :- scala CheckNum
+// run :- scala CheckNum.scala
 
 import scala.io.StdIn._
 object CheckNum {
